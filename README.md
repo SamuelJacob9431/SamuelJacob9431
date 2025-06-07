@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FEEF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I+am+Mavileth+Samuel+John+Jacob+%F0%9F%92%AB;Just+a+guy+who+codes%2C+games%2C+and+sometimes+does+both+at+once+%F0%9F%A4%96%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FEEF&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I+am+Mavileth+Samuel+John+Jacob+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 
+
 ---
+<h1>Just a guy who codes, games, and sometimes does both at once 🤖🎮</h1>
 🌱 Currently learning **React.js & Node.js**, **AI-based inventory prediction**, and **French & Russian podcasts** (still hard 😅)  
 💻 Passionate about building useful tools that feel like magic  
 
