@@ -5,7 +5,7 @@
 
 
 ---
-<h1>Just a guy who codes, games, and sometimes does both at once 🤖🎮</h1>
+ Just a guy who codes, games, and sometimes does both at once 🤖🎮
 🌱 Currently learning **React.js & Node.js**, **AI-based inventory prediction**, and **French & Russian podcasts** (still hard 😅)  
 💻 Passionate about building useful tools that feel like magic  
 
