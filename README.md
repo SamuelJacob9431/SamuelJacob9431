@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 💻 Languages and Tools:
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
