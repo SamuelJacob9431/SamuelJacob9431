@@ -1,8 +1,13 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&center=true&vCenter=true&multiline=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I+am+Mavileth+Samuel+John+Jacob+%F0%9F%92%AB" alt="Typing SVG" />
+</p>
 
 <h3 align="center">Just a guy who codes, games, and sometimes does both at once 🤖🎮</h3>
 
 🌱 Currently learning **React.js & Node.js**, **AI-based inventory prediction**, and **French & Russian podcasts** (still hard 😅)  
 💻 Passionate about building useful tools that feel like magic  
+
+---
 🎯 2025 Goals:  
 - Build a complete Java Games repo (special thanks to Kenny Yip for amazing ideas) & Visual Novels release.
 - Learn a few Js Frameworks 
