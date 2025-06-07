@@ -10,15 +10,15 @@
   
 ---
 ### 💻 Tech Stack!:
-![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![Ren'Py](https://img.shields.io/badge/-Ren'Py-000?style=flat&logo=renpy&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=c%2b%2b)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Ren'Py](https://img.shields.io/badge/-Ren'Py-302C2C?style=flat&logo=renpy&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
