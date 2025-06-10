@@ -7,7 +7,7 @@
 ---
  Just a guy who codes, games, and sometimes does both at once 🤖🎮
 
-🌱 Currently learning **React.js & Node.js**, **AI-based inventory prediction**, and **French & Russian podcasts** (still hard 😅)  
+🌱 Currently learning **React.js & Node.js* and on the sides, **French & Russian podcasts** (still hard to understand 😅)  
 
 💻 Passionate about building useful tools that feel like magic  
 
