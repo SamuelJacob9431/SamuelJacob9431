@@ -32,8 +32,7 @@
 ---
 ### 🕹️ Side Projects
 - **Game Automation Bot** (FGO-style) & **Visual Novels, stay tuned.**
-- **Expense Predictor** using Machine Learning
-- **Restaurant Inventory Manager** powered by AI
+- - **Restaurant Inventory Manager** powered by AI
 
 
 ---
