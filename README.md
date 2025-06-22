@@ -32,7 +32,7 @@
 ---
 ### 🕹️ Side Projects
 - **Game Automation Bot** (FGO-style) & **Visual Novels, stay tuned.**
-- - **Restaurant Inventory Manager** powered by AI
+-  **Restaurant Inventory Manager** powered by AI
 
 
 ---
