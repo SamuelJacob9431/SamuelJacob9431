@@ -12,7 +12,7 @@
 💻 Passionate about building useful tools that feel like magic  
 
 ---
-### 🎯 2025 Goals:  
+### 🎯 2026 Goals:  
 - Build a complete Java Games repo (special thanks to Kenny Yip for amazing ideas) & Visual Novels release.
 - Learn a few Js Frameworks 
 - Launch my AI powered Inventory Manager
