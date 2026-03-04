@@ -13,9 +13,10 @@
 
 ---
 ### 🎯 2026 Goals:  
+- Building a Restaurant AI Powered Inventory Manager
 - Build a complete Java Games repo (special thanks to Kenny Yip for amazing ideas) & Visual Novels release.
 - Learn a few Js Frameworks 
-- Launch my AI powered Inventory Manager
+  
   
 ---
 ### 💻 Tech Stack!:
