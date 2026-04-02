@@ -35,8 +35,8 @@
 
 ---
 ### 🕹️ Side Projects
-- **Game Automation Bot** (FGO-style) & **Visual Novels, stay tuned.**
--  **Restaurant Inventory Manager** powered by AI
+- **Games Adventure based, Hack & Slash** & **Visual Novels, stay tuned.**
+-
 
 
 ---
