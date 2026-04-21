@@ -36,7 +36,7 @@
 ---
 ### 🕹️ Side Projects
 - **Games Adventure based, Hack & Slash** & **Visual Novels, stay tuned.**
-
+- **Financial Forensics Research Paper, SHAP Vs LIME Methodologies!**
 
 
 ---
