@@ -33,8 +33,8 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
-### 🕹️ Side Projects
-- **Games Adventure based, Hack & Slash** & **Visual Novels, stay tuned.**
+### 🕹️ Passion Projects
+-- "Hack & Slash Adventure Game + Visual Novel"
 
 
 ---
