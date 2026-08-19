@@ -7,9 +7,9 @@
 ---
  Just a guy who codes, games, and sometimes does both at once 🤖🎮
 
-🌱 Currently learning *React.js & Node.js* and on the sides, **French & Russian podcasts** (still hard to understand 😅)  
+🌱 Currently learning *React.js & Node.js* and on the sides, listening & understanding French & Russian podcasts (still hard to understand 😅) while dabbling in Japanese 
 
-💻 Passionate about building useful tools that feel like magic  
+💻 Passionate about building useful tools.
 
 ---
 ### 🎯 2026 Goals:  
