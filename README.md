@@ -7,15 +7,14 @@
 ---
  Just a guy who codes, games, and sometimes does both at once 🤖🎮
 
-🌱 Currently learning *React.js & Node.js* and on the sides, listening & understanding French & Russian podcasts (still hard to understand 😅) while dabbling in Japanese 
+🌱 Currently learning *React.js & Node.js* & brushing up Golang and Github Actions and on the sides, listening & understanding French & Russian podcasts (still hard to understand 😅) while dabbling in Japanese 
 
 💻 Passionate about building useful tools.
 
 ---
 ### 🎯 2026 Goals:  
 - Build a complete Java Games repo (special thanks to Kenny Yip for amazing ideas) & Visual Novels release.
-- Learn a few Js Frameworks & brushing up Golang and Github Actions
-  
+- Learn a few Js Frameworks 
   
 ---
 ### 💻 Tech Stack!:
