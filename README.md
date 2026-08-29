@@ -33,6 +33,7 @@
 
 ---
 ### 🕹️ Passion Projects
+-- 'Writing up a One Character short VN, do keep an eye on itch.io'
 -- "Hack & Slash Adventure Game + Visual Novel"
 
 
