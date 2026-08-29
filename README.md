@@ -7,7 +7,7 @@
 ---
  Just a guy who codes, games, and sometimes does both at once 🤖🎮
 
-🌱 Currently learning *React.js & Node.js* & brushing up Golang and Github Actions and on the sides, listening & understanding French & Russian podcasts (still hard to understand 😅) while dabbling in Japanese 
+🌱 Currently learning *Node.js* & brushing up Golang and Github Actions and on the sides, listening & understanding French & Russian podcasts (still hard to understand 😅) while dabbling in Japanese 
 
 💻 Passionate about building useful tools.
 
