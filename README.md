@@ -13,9 +13,8 @@
 
 ---
 ### 🎯 2026 Goals:  
-- Build a complete Java Games repo (special thanks to Kenny Yip for amazing ideas) & Visual Novels release.
-
-- Learn a few Js Frameworks 
+- Learn a few Js Frameworks
+- Learn Docker & Actions!
   
 ---
 ### 💻 Tech Stack!:
