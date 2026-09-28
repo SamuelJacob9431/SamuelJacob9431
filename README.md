@@ -5,16 +5,11 @@
 
 
 ---
- Just a guy who codes, games, and sometimes does both at once 🤖🎮
+Just a guy who codes, games, and sometimes does both at once 
 
-🌱 Currently learning *Node.js* & brushing up Docker and Github Actions and on the sides, listening & understanding French & Russian podcasts (still hard to understand 😅) while dabbling in Japanese 
+Currently learning *Node.js* & brushing up Docker and Github Actions and on the sides, listening & understanding French & Russian podcasts (still hard to understand 😅) while dabbling in Japanese 
 
-💻 Passionate about building useful tools.
-
----
-### 🎯 2026 Goals:  
-- Learn a few Js Frameworks
-- Learn Docker & Actions!
+Passionate about learning about ML & AI & building tools to strengthen AI performance while safeguarding human rights
   
 ---
 ### 💻 Tech Stack:
@@ -58,6 +53,8 @@
 
 -- 'AI Restaurant Inventory Platform'
 
+
+-- Hit me up if you want Pixel Animations!
 
 
 ---
