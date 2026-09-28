@@ -54,7 +54,7 @@ Passionate about learning about ML & AI & building tools to strengthen AI perfor
 -- 'AI Restaurant Inventory Platform'
 
 
--- Hit me up if you want Pixel Animations!
+-- Learnin Pixel Animations!
 
 
 ---
